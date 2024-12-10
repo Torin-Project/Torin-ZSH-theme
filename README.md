@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Screenshots**  
 
 ### **Prompt Layout**  
-![Torin Zsh Theme Prompt](https://github.com/Torin-Project/Torin-ZSH-theme/img.jpg)  
+![Torin Zsh Theme Prompt](https://github.com/Torin-Project/Torin-ZSH-theme/blob/main/img.jpg)  
 
 ---
 
